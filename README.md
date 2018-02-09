@@ -2,10 +2,11 @@
 # Gagner du temps en lettres à l’âge numérique
 
 
-Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite 
+_Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite_ 
 Lewis Carroll
-Objectifs
-## La prise en main des logiciels bibliographiques et typographiques pour la meilleure qualité de leur production scientifique
+
+## Objectifs
+La prise en main des logiciels bibliographiques et typographiques pour la meilleure qualité de leur production scientifique
 
 + La prise en main des moyens pour vulgariser et propager les résultats de la recherche: HAL, Academia, ResearchGate.
 + L'acquiescement de la connaissance générale du droit d’auteur et les premiers pas dans l’usage des archives ouvertes HAL-SHS
@@ -32,7 +33,7 @@ La formation aura lieu en juin 2017. Les horaires seront établis à l’aide du
 ### Organisation du travail individuel (b)
 Si le nombre de participants ne dépasse pas 16, chaque participant pourra réserver le temps pour le travail individuel via Doodle.
 
-**(Prise de RDV sur Doodle (cliquez))[https://doodle.com/poll/9e6v75r8fez2erd7]
+**[Prise de RDV sur Doodle (cliquez)](https://doodle.com/poll/9e6v75r8fez2erd7)
 
 ### Evaluation
 A la fin de formation les participants seront invités à donner avis sur le contenu de l’atelier. Si l’atelier réussit, il pourrait être reconduit pour l’année prochaine.
