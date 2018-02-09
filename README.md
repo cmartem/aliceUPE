@@ -18,14 +18,14 @@ Les étudiants en lettres de nos jours facent le défis du temps. À part les é
 
 Nous nous concentrons sur trois aspects de la rédaction:
 + Prise en main des outils bureautique (niveau expert): les fonctionnalités extra de LibreOffice ou Office Word
-- LibreOffice est un intégré bureautique, c’est-à-dire un logiciel composé d'un ensemble de modules pouvant interagir entre eux pour créer et modifier des documents bureautiques, tels que des textes mis en forme, libre et gratuite.
+  - LibreOffice est un intégré bureautique, c’est-à-dire un logiciel composé d'un ensemble de modules pouvant interagir entre eux pour créer et modifier des documents bureautiques, tels que des textes mis en forme, libre et gratuite.
 + Prise en main d’un outil bibliographique: Zotero, son installation et usage
-- Zotero est un logiciel de gestion de références gratuit, libre et open source qui s'inscrit dans la philosophie du Web 2.03. Il permet de gérer des données bibliographiques et des documents de recherche (tels que des fichiers PDF, images, etc.).
+  - Zotero est un logiciel de gestion de références gratuit, libre et open source qui s'inscrit dans la philosophie du Web 2.03. Il permet de gérer des données bibliographiques et des documents de recherche (tels que des fichiers PDF, images, etc.).
 + Connaissance d’un outil typographique: LaTex via Overleaf
-- LaTex est un langage et un système de composition de documents. Du fait de sa relative simplicité, il est devenu la méthode privilégiée d'écriture de documents scientifiques employant TEX. Il est particulièrement utilisé dans les domaines techniques et scientifiques pour la production de documents de taille moyenne ou importante (thèse ou livre, par exemple).
-- Overleaf est un éditeur de texte est un logiciel destiné à la création et l'édition de fichiers textes à temps réel.
+  - LaTex est un langage et un système de composition de documents. Du fait de sa relative simplicité, il est devenu la méthode privilégiée d'écriture de documents scientifiques employant TEX. Il est particulièrement utilisé dans les domaines techniques et scientifiques pour la production de documents de taille moyenne ou importante (thèse ou livre, par exemple).
+  - Overleaf est un éditeur de texte est un logiciel destiné à la création et l'édition de fichiers textes à temps réel.
 + Recherche efficace via GoogleScholar, ResearchGate, Academia et HAL SHS
-- Hyper articles en ligne (ou HAL) est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe (CCSD) du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs publiés ou non, et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
+  - Hyper articles en ligne (ou HAL) est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe (CCSD) du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs publiés ou non, et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
 
 ### Organisation du travail en groupe (a)
 La formation aura lieu en juin 2017. Les horaires seront établis à l’aide du Doodle.
