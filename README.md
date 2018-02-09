@@ -2,8 +2,7 @@
 # Gagner du temps en lettres à l’âge numérique
 
 
-_Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite_ 
-Lewis Carroll
+_Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite_ -- Lewis Carroll
 
 ## Objectifs
 La prise en main des logiciels bibliographiques et typographiques pour la meilleure qualité de leur production scientifique
