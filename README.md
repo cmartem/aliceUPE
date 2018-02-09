@@ -1,5 +1,5 @@
 # Zotero, HAL, LaTex
-# Gagner du temps en lettres à l’âge numérique**
+# Gagner du temps en lettres à l’âge numérique
 
 
 Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite 
@@ -7,10 +7,10 @@ Lewis Carroll
 Objectifs
 ## La prise en main des logiciels bibliographiques et typographiques pour la meilleure qualité de leur production scientifique
 
-+La prise en main des moyens pour vulgariser et propager les résultats de la recherche: HAL, Academia, ResearchGate.
-+L'acquiescement de la connaissance générale du droit d’auteur et les premiers pas dans l’usage des archives ouvertes HAL-SHS
-+La maîtrise de logiciels de traitement de texte classiques
-+La connaissance du LaTex et la transition du LibreOffice à Latex sans faute
++ La prise en main des moyens pour vulgariser et propager les résultats de la recherche: HAL, Academia, ResearchGate.
++ L'acquiescement de la connaissance générale du droit d’auteur et les premiers pas dans l’usage des archives ouvertes HAL-SHS
++ La maîtrise de logiciels de traitement de texte classiques
++ La connaissance du LaTex et la transition du LibreOffice à Latex sans faute
 
 ### Courte description
 Les étudiants en lettres de nos jours facent le défis du temps. À part les études, ils sont confrontés par le besoin de produire les articles à une vitesse incomparable ainsi que de rendre leurs travaux écrits d’une bonne qualité typographique afin de pouvoir les publier de suite. Les logiciels proposés permettront sans aucun doute de mieux gérer le temps durant la rédaction d’une thèse et de propager la recherche de suite.
@@ -30,7 +30,9 @@ Nous nous concentrons sur trois aspects de la rédaction:
 La formation aura lieu en juin 2017. Les horaires seront établis à l’aide du Doodle.
 
 ### Organisation du travail individuel (b)
-Si le nombre de participants ne dépasse pas 16, chaque participant pourra réserver le temps pour le travail individuel via Doodle (le lien est sur le site dédié).
+Si le nombre de participants ne dépasse pas 16, chaque participant pourra réserver le temps pour le travail individuel via Doodle.
+
+**(Prise de RDV sur Doodle (cliquez))[https://doodle.com/poll/9e6v75r8fez2erd7]
 
 ### Evaluation
 A la fin de formation les participants seront invités à donner avis sur le contenu de l’atelier. Si l’atelier réussit, il pourrait être reconduit pour l’année prochaine.
