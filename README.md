@@ -1,7 +1,7 @@
 # Zotero, HAL, LaTex
 # Gagner du temps en lettres à l’âge numérique
 
-__Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite__
+_Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite_
 Lewis Carroll
 
 ## Objectifs
@@ -22,7 +22,7 @@ Les étudiants (ne t'adresses-tu pas aux doctorants? nous ne sommes plus des ét
 + Connaissance d’un outil typographique: LaTex via Overleaf
   + LaTex est un langage et un système de composition de documents. Du fait de sa relative simplicité, il est devenu la méthode privilégiée d'écriture de documents scientifiques employant TEX. Il est particulièrement utilisé dans les domaines techniques et scientifiques pour la production de documents de taille moyenne ou importante (thèse ou livre, par exemple).
   + Overleaf est un éditeur de texte est un logiciel destiné à la création et l'édition de fichiers texte à temps réel.
-  + Recherche efficace via GoogleScholar, ResearchGate, Academia et HAL SHS
++ Recherche efficace via GoogleScholar, ResearchGate, Academia et HAL SHS
 Hyper articles en ligne (ou HAL) est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe (CCSD) du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs publiés ou non, et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
 
 ## Organisation du travail
