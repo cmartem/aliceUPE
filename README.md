@@ -46,6 +46,4 @@ Affichages publique à la faculté, annonce sur les groupes facebook, par profes
 0 € Gratuit pour les participants. Seule dépense: l’impression des affiches par le service typographique.
 
 ## Expérience de la formatrice
-Depuis 2016 je donne des TD en informatique bureautique à la faculté dE droit DE l’UPE-C (resp. pédagogique M. Julien TESSON, MCF). Je continue ma formation à distance grâce aux cours en ligne. En novembre 2017, j’ai accompli UN dépôt de NOMBREUSEs données bibliographiques sur HAL (plus de 400 notices).
-
-
+Depuis 2016 je donne des TD en informatique bureautique à la faculté de droit DE l’UPE-C (resp. pédagogique M. Julien TESSON, MCF). Je continue ma formation à distance grâce aux cours en ligne. En novembre 2017, j’ai accompli un dépôt des données bibliographiques sur HAL (plus de 400 notices).
