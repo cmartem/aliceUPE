@@ -2,7 +2,7 @@
 # Gagner du temps en lettres à l’âge numérique
 
 _Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite_
-Lewis Carroll
+- Lewis Carroll
 
 ## Objectifs
 + La prise en main des logiciels bibliographiques et typographiques pour la meilleure qualité de leur production scientifique
@@ -40,7 +40,8 @@ La connexion internet indispensable pour tout type de travail.
 Une salle informatique équipée de postes de travail suffisant pour accueillir un groupe (>= 16 personnes)
 Information des étudiants
 
-## Affichages publique à la faculté, annonce sur les groupes facebook, par professeurs, via site internet dédié (voici le lien).
+## Information
+Affichages publique à la faculté, annonce sur les groupes facebook, par professeurs, via site internet dédié.
 
 ## Financement (coûts budgétaires)
 0 € Gratuit pour les participants. Seule dépense: l’impression des affiches par le service typographique.
