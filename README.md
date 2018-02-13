@@ -11,7 +11,7 @@ _Si vous voulez aller ailleurs, il vous faut courir au moins deux fois plus vite
 + La connaissance du LaTex et la transition du LibreOffice à Latex sans faute
 
 ## Courte description
-Les étudiants (ne t'adresses-tu pas aux doctorants? nous ne sommes plus des étudiants...) en lettres de nos jours font face aux défis de notre temps. En plus des études, ils sont confrontés au besoin de produire Des articles à une vitesse incomparable ainsi que de donner à leurs travaux écrits une bonne qualité typographique, afin de pouvoir les publier. Les logiciels proposés permettent de mieux gérer le temps durant la rédaction d’une thèse et de diffuser la recherche aisément et rapidement.
+Les étudiants en lettres et les doctorants font face aux défis de notre temps. En plus des études, ils sont confrontés au besoin de produire des articles à une vitesse incomparable ainsi que de donner à leurs travaux écrits une bonne qualité typographique afin de pouvoir les publier. Les logiciels proposés permettent de mieux gérer le temps durant la rédaction d’une thèse et de diffuser la recherche aisément et rapidement.
 
 ## Nous nous concentrons sur trois aspects de la rédaction:
 + Prise en main des outils bureautique (niveau expert): les fonctionnalités extra de LibreOffice ou Office Word
