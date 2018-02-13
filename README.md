@@ -22,24 +22,23 @@ Les étudiants en lettres et les doctorants font face aux défis de notre temps.
   + LaTex est un langage et un système de composition de documents. Du fait de sa relative simplicité, il est devenu la méthode privilégiée d'écriture de documents scientifiques employant TEX. Il est particulièrement utilisé dans les domaines techniques et scientifiques pour la production de documents de taille moyenne ou importante (thèse ou livre, par exemple).
   + Overleaf est un éditeur de texte est un logiciel destiné à la création et l'édition de fichiers texte à temps réel.
 + Recherche efficace via GoogleScholar, ResearchGate, Academia et HAL SHS
-Hyper articles en ligne (ou HAL) est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe (CCSD) du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs publiés ou non, et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
+    + Hyper articles en ligne (ou HAL) est une plateforme en ligne développée en 2001 par le Centre pour la communication scientifique directe (CCSD) du CNRS, destinée au dépôt et à la diffusion d'articles de chercheurs publiés ou non, et de thèses, émanant des établissements d'enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
 
 ## Organisation du travail
-La formation aura lieu en juin 2018. Les horaires seront établis à l’aide du Doodle (le lien est sur le site dédié).
+La formation aura lieu en juin 2018. Les horaires seront établis à l’aide du Doodle.
 
 ## Evaluation
-A la fin de la formation les participants seront invités à donner leur avis sur le contenu de l’atelier. Si l’atelier réussit, il pourrA être reconduit l’année prochaine.
+A la fin de la formation les participants seront invités à donner leur avis sur le contenu de l’atelier. Si l’atelier réussit, il pourra être reconduit l’année prochaine.
 
 ## Horaires
-3 ateliers seront proposés, et chaque atelier durera 4h avec une petite pause-déjeuner. Les participants seront libreS de partir à la cantine universitaire (1h).
-Un atelier un fois par semaine, quatre semaines en juin 2018.
+L'atelier durera 4h avec une petite pause-déjeuner. 
+Un atelier un fois par semaine, trois ou quatre semaines en juin 2018.
 
 ## Equipement
 La connexion internet indispensable pour tout type de travail.
-Une salle informatique équipée de postes de travail suffisant pour accueillir un groupe (>= 16 personnes)
-Information des étudiants
+Une salle informatique équipée de postes de travail suffisant pour accueillir un groupe.
 
-## Information
+## Information des étudiants
 Affichages publique à la faculté, annonce sur les groupes facebook, par professeurs, via site internet dédié.
 
 ## Financement (coûts budgétaires)
