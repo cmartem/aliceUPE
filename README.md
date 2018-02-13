@@ -31,7 +31,7 @@ La formation aura lieu en juin 2018. Les horaires seront établis à l’aide du
 A la fin de la formation les participants seront invités à donner leur avis sur le contenu de l’atelier. Si l’atelier réussit, il pourrA être reconduit l’année prochaine.
 
 ## Horaires
-3 ATELIERS SERONT PROPOSÉS, ET CHAQUE atelier durera 4h avec une petite pause-déjeuner. Les participants seront libreS de partir à la cantine universitaire (1h).
+3 ateliers seront proposés, et chaque atelier durera 4h avec une petite pause-déjeuner. Les participants seront libreS de partir à la cantine universitaire (1h).
 Un atelier un fois par semaine, quatre semaines en juin 2018.
 
 ## Equipement
